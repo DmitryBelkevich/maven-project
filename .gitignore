@@ -1,0 +1,10 @@
+## Java
+
+## Intellij IDEA
+
+.idea/
+*.iml
+
+## Maven
+
+target/
